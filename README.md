@@ -12,6 +12,8 @@ De som benytter siden kan få opp beskrivelser av rutene, statistikk, etc. samt 
 
 1. Dokumentere
 2. Om vi kan påvirke både flyktninger, lokale myndigheter og befolkning generelt i Europa; kan vi kanskje bidra til å skape en "flytningekorridor" hvor hjelpetiltak kan settes inn og flyktninger kan ferdes trygt.
+3. Raise awareness
+4. Tilby direkte kommunikasjonskanal mellom flyktninger og hjelpeappart(er) ?
 
 ## Økonomi
 
