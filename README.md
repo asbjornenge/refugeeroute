@@ -1,5 +1,7 @@
 # RefugeeRoute
 
+[![Join the chat at https://gitter.im/asbjornenge/refugeeroute](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/asbjornenge/refugeeroute?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Idé 
 
 En nettside som viser den / de ulike rutene som flyktningene tar / kan ta gjennom Europa. 
